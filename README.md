@@ -18,15 +18,15 @@
      - Tailwind CSS
      - DaisyUI
      
-## Backend Technologies
-     - Node.js
-     - Express.js
-     - Nodemon
-     - Mongoose
-     - JsonWebToken
-     - Dotenv
-     - Cors
-     - Bcrypt.js
-     - Cookie Parser
-     - Socket.io
+## Backend Technologies   
+- Node.js
+- Express.js
+- Nodemon
+- Mongoose
+- JsonWebToken
+- Dotenv
+- Cors
+- Bcrypt.js
+- Cookie Parser
+- Socket.io
 
