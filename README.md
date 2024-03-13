@@ -9,14 +9,14 @@
    - Responsive User Interface built with React
 
 ## Frontend Technologies
-     - React.js
-     - React-router-dom
-     - React-icons
-     - React-hot-toast
-     - Socket-io-client
-     - Zustand
-     - Tailwind CSS
-     - DaisyUI
+- React.js
+- React-router-dom
+- React-icons
+- React-hot-toast
+- Socket-io-client
+- Zustand
+- Tailwind CSS
+- DaisyUI
      
 ## Backend Technologies   
 - Node.js
