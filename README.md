@@ -1,5 +1,5 @@
 # Chat Application
-   - This is a real-time chat application built using React.js, Node.js, Express.js, MongoDB, and Socket.iO.
+   - This is a real-time chat application built using React.js, Node.js, Express.js, MongoDB, and Socket.io.
    - It allows users to communicate with each other in real-time.
 
 ## Features
