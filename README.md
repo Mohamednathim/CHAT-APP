@@ -8,8 +8,7 @@
    - Message persistence with MongoDB
    - Responsive User Interface built with React
 
-## Used Technologies
-    Frontend Technologies:
+## Frontend Technologies
      - React.js
      - React-router-dom
      - React-icons
@@ -18,7 +17,8 @@
      - Zustand
      - Tailwind CSS
      - DaisyUI
-   Backend Technologies:
+     
+## Backend Technologies
      - Node.js
      - Express.js
      - Nodemon
